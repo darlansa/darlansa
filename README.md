@@ -6,17 +6,17 @@
 
 ## Hi i'm Darlan Sá!
 
- 
+<img align="right" alt="house" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" width="300" />
 
-![](https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif)
+:computer: I'm Developer! 
 
-:computer: I'm Developer!                            
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.  ![progress](https://progress-bar.dev/40/ "progresso") 
  
-
+ 
+ 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/darlansa) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/darlansa/)
