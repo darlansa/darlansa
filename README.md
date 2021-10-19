@@ -38,9 +38,11 @@
 
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
+<a href="https://github.com/darlansa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlansa&theme=algolia&hide_langs_below=1" />
+</a>
 
-![stat Badge](https://github-readme-stats.vercel.app/api?username=darlansa&theme=algolia&show_icons=true)![TopLang Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=darlansa&theme=algolia&show_icons=true)
-
+![stat Badge](https://github-readme-stats.vercel.app/api?username=darlansa&theme=algolia&show_icons=true)
 
 
 
