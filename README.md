@@ -43,10 +43,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlansa&theme=algolia&hide_langs_below=1" />
 </a>
 
-![stat Badge](https://github-readme-stats.vercel.app/api?username=darlansa&theme=algolia&show_icons=true)
-
-
-
 
 
 
